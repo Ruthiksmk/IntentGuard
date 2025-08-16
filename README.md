@@ -21,3 +21,32 @@ Built using **SentenceTransformers embeddings + Machine Learning models (XGBoost
 ---
 
 ## 📂 Project Structure
+
+---
+
+## ▶️ Run Locally
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+
+This will immediately make your repo look **professional & recruiter-friendly**.  
+
+---
+
+### ✅ 2. Add `requirements.txt`
+In your repo → click **Add file → Create new file** → name it `requirements.txt` → add:
+
+
+Commit changes ✅  
+
+---
+
+### ✅ 3. Deployment Option (Optional but Strong)
+To impress recruiters, you can give a **live demo link** (not just code).  
+Two free ways:  
+- **Streamlit Cloud** (free, simple) → runs your app online  
+- **Hugging Face Spaces** (popular in NLP projects)  
+
+---
+
+👉 Do you want me to show you how to **deploy this on Streamlit Cloud** so you can share a live working link with recruiters?
